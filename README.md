@@ -3,6 +3,7 @@
 ## Overview
 The **SAO Event Management Platform** is designed to improve event management efficiency at **Al Akhawayn University** and enhance the student experience. The platform simplifies planning, execution, and participation in university events, providing a seamless and intuitive interface for both students and administrators.
 
+**Project Report:** https://drive.google.com/file/d/15z3U8ZcRCnXik2Dd5Fk3RRL5e1LeU6ID/view?usp=sharing
 ---
 
 ## Key Features
